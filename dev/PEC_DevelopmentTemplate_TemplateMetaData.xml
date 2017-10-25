@@ -1,0 +1,17 @@
+<MetaData>
+<ProjectTemplate>
+  <Title localize="yes">Power Electronics Control IP Development Template</Title>
+  <Description localize="yes">A reduced template to develop PEC IP on the GPIC platform</Description>
+  <Filters localize="yes">Power Electronics Control:IP Development Template</Filters>
+  <Keywords localize="yes">sbRIO;Power;FPGA;RT;Control;</Keywords>
+  <LocationPath>PowerElectronicsControl/IPdevelopmentTemplate</LocationPath>
+  <ProjectPath>DevelopmentTemplate.lvproj</ProjectPath>>
+  <ListboxImagePath>images/PEC.png</ListboxImagePath>
+  <DocumentationPath></DocumentationPath>
+  <CustomVIMode>None</CustomVIMode>
+  <CustomVIPath></CustomVIPath>
+  <EnvironmentMode></EnvironmentMode>
+  <SortPriority></SortPriority>
+  <LabelLocalizations></LabelLocalizations>
+</ProjectTemplate>
+</MetaData>
